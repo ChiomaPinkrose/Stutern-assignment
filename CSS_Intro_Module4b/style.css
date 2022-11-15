@@ -11,14 +11,15 @@ h2{
 #background_cover{
     background-color: white;
     border: 2px solid goldenrod;
-    /* padding: 20px 10px; */
+    padding: 20px 10px;
 }
 
 #first_section{
    color: green;
-   border: 2px solid whitesmoke;
-   /* padding-bottom: ; */
-   /* border: 2px solid black; */
+   border: 2px solid rgb(212, 23, 23);
+   padding: 7px rgb(45, 9, 104);
+   border: 8px solid black;
+   margin: 5px teal;
 }
 .page_section{
     font-size: 14px;
@@ -29,12 +30,12 @@ h2{
 #second_section{
     color: red;
     background-color: powderblue;
-    border: 2px solid brown;
+    border: 5px solid brown;
 }
 #third_section{
     color: blue;
-    border: 2px solid purple;
-    /* background-color: yellowgreen; */
+    border: 6px solid purple;
+    background-color: yellowgreen;
 }
 p{
     border: 2px solid purple;
