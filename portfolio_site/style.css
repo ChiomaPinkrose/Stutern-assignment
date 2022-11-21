@@ -73,7 +73,7 @@ ul{
 
 .second_p{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 2fr;
 }
 
 .move{
@@ -82,9 +82,8 @@ ul{
 }
 
 .skill_set{
-    padding: 3rem 6rem 5rem 40rem;
+    padding-top: 2rem;
+    padding-bottom: 10rem;
     list-style: none;
     line-height: 2rem;
-    display: flex;
-    justify-content: space-between ;
 }
