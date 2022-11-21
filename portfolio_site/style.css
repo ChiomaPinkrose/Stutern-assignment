@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.main_body{
+    border: 1rem solid skyblue;
+    padding: 1 rem 2rem;
+    border-radius: 3px;
+    background: pink;
+}
+
+.container{
+    /* border: 1px solid gray; */
+    border-radius: 12px;
+    background: white;
+    padding: 1rem;
+}
+
+.nav_container a{
+    position: relative;
+    left: 70%;
+    text-decoration: none;
+}
+
+.logo_div p{
+    display: inline;
+}
+
+.logo{
+    width: 2rem;
+    height: 2rem;
+    padding: 0.2em;
+    vertical-align: middle;
+}
+
+.profile_image{
+    width: 10rem;
+    height: 10rem;
+    padding: 1rem;
+}
+
+.image_div{
+float: left;
+
+}
+
+.another_div{
+    margin-left: 15rem;
+    margin-top: 2rem;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.image_div{
+    width: 50;
+    height: 30;
+    float: left;
+}
+
+/* .first_h{
+    text-align: justify;
+} */
+
+.first_p{
+    padding: 3rem;
+    /* text-align: right; */
+}
+
+.second_p{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.move{
+    clear: left;
+    padding-right: 10rem;
+}
+
+.skill_set{
+    padding: 3rem 6rem 5rem 40rem;
+    list-style: none;
+    line-height: 2rem;
+    display: flex;
+    justify-content: space-between ;
+}
